@@ -1,0 +1,3 @@
+-r requirements.txt
+-c build-constraints.txt
+pyinstaller==6.22.3

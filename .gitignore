@@ -1,0 +1,15 @@
+__pycache__/
+.qa/
+*.py[cod]
+.env
+settings.local.json
+.build-venv/
+build/
+dist/
+release/
+models/
+
+# Local recordings and history are written outside the repository by default.
+*.wav
+records/
+history.jsonl

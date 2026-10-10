@@ -1,0 +1,8 @@
+faster-whisper>=1.2.1
+numpy>=1.26
+sounddevice>=0.5.6
+soundfile>=0.12
+pynput>=1.8
+pyperclip>=1.11
+pystray>=0.19.5
+opencc-python-reimplemented>=0.1.7

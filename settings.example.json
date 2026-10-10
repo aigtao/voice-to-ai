@@ -1,0 +1,8 @@
+{
+  "hotkey": "Ctrl+Alt+Space",
+  "api": {
+    "endpoint": "https://api.siliconflow.cn/v1/audio/transcriptions",
+    "model": "FunAudioLLM/SenseVoiceSmall",
+    "api_key": ""
+  }
+}

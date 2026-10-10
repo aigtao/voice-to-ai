@@ -1,0 +1,9 @@
+普通用户：完整解压 Windows 便携包，双击 VoiceToAI.exe。
+不要单独移动 exe，也不要删除 _internal 文件夹。不需要安装 Python。
+
+源码开发：安装 Python 和 requirements.txt 后双击“启动语音工具.vbs”。
+脚本优先使用项目内的 .venv；也可用 run.bat 或 python app.py。
+
+主界面关闭后程序留在右下角托盘，右键打开主界面或退出。
+重复启动不会新建实例。首次本地转写需要下载 Whisper small 模型。
+完整使用和离线模型说明见 QUICKSTART.md。
